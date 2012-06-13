@@ -1,4 +1,4 @@
-twitter-bootstrap-metro
+Metro UI Style for Twitter Bootstrap
 =======================
 
-Twitter bootstrap Metro UI Style
+Just <link rel="stylesheet" href="bootstrap-metro.css" /> and enjoy!
